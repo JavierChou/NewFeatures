@@ -4,7 +4,19 @@
 
 
 
-- **C#**
+#### C#
+
+- v1.0		2002	
+- v2.0		2005	
+- v3.0		2007	
+- v4.0		2010	
+- v5.0		2012	
+- v6.0		2015	
+- v7.0		2017	.NET Core 2.x	.NET Standard 2.0/1.x	.NET FX
+- v8.0		2019	.NET Core 3.x	.NET Standard 2.1
+- v9.0		2021	.NET 5.x
+- v10.0	  2021	.NET 6.x
+- v11.0	  2022	.NET 6.x	preview
 
 
 

@@ -34,7 +34,7 @@ internal class Sample
         while (this._actions.Count > 0)
         {
             var action = this._actions.Dequeue();
-            Console.WriteLine(">> " + action.Method.Name);
+            Console.WriteLine($">> {action.Method.Name} \n");
             action();
             Console.WriteLine();
             Thread.Sleep(100);

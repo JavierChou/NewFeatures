@@ -1,6 +1,6 @@
 ﻿namespace Csharp
 {
-    /// <summary> 2005 </summary>
+    /// <summary> 2005（.NET Framework 2.x） </summary>
     internal partial class Ver2
     {
         public void Test()

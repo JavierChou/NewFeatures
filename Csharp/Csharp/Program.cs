@@ -2,7 +2,8 @@
 //new Ver2().Test();
 //new Ver3().Test();
 //new Ver4().Test();
-new Ver5().Test();
+//new Ver5().Test();
+new Ver6().Test();
 //new Ver8().Test();
 //new Ver9().Test();
 //new Ver10().Test();
